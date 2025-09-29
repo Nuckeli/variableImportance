@@ -1,0 +1,5 @@
+.DS_Store
+notebooks/test.ipynb
+notebooks/databases/OULAD/assessments_short.csv
+notebooks/databases/OULAD/studentAssessment_short.csv
+notebooks/databases/OULAD/studentVle_short.csv
